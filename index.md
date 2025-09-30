@@ -1,4 +1,4 @@
-# No Kernel Headers were found! Skippig Module Build
+# No Kernel Headers were found! Skipping Module Build
 
 Welcome to my blog!
 
